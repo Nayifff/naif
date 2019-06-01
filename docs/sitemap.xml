@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nayifff.github.io/naif/categories/</loc>
+    <loc>https://naif.soy/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nayifff.github.io/naif/</loc>
+    <loc>https://naif.soy/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://http://nayifff.github.io/naif/tags/</loc>
+    <loc>https://naif.soy/tags/</loc>
     <priority>0</priority>
   </url>
   
