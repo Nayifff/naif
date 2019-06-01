@@ -30,21 +30,11 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
 # look here github.com/Track3/hermit#social-icons
-  [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/"
 
-  [[params.social]]
-    name = "instagram"
-    url = "https://instagram.com/"
-
-  [[params.social]]
-    name = "stackoverflow"
-    url = "https://stackoverflow.com/"
 
   [[params.social]]
     name = "linkedin"
-    url = "https://linkedin.com/"
+    url = "https://linkedin.com/in/nayif/"
 
   [[params.social]]
     name = "github"
